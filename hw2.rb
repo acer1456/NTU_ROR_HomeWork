@@ -49,7 +49,10 @@ begin
    elsif (string == "S" && user_input == "P")
    	 puts string + " vs " + user_input + " 結果是： 電腦獲勝！"
    end 
-   
+
+
+
+
 end
 
   #問使用者是否還要再玩 

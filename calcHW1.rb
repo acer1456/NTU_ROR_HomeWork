@@ -31,5 +31,9 @@ begin
    when "/" then puts "結果是： #{user_input.to_i / user_input2.to_i}"
   end
 
+
+
+
+
 end
   
